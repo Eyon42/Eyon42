@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently learning Web Developement and Machine Learning and applying my knowledge by building a language learning website.
 <!--
 **Eyon42/Eyon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
