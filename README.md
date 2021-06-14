@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently learning Web Developement and Machine Learning and applying my knowledge by building a language learning website.
+I'm currently learning Web Developement and bulding a toy [fullstack project](https://github.com/Eyon42/DocAuth).
+
+Beside that I do freelance work, mostly with data visualization (Matplotlib, Plotly and Bokeh), but I'm open to projects in Data Engineering, Data Science and Back-end Developement.
+
 <!--
 **Eyon42/Eyon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
