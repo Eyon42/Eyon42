@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning Web Developement and bulding a toy [Fullstack project](https://github.com/Eyon42/DocAuth).
+I'm a backend developer working on API developement.
 
 Beside that I do freelance work, mostly with data visualization (Matplotlib, Plotly and Bokeh), but I'm open to projects in Data Engineering, Data Science and Back-end Developement.
 
