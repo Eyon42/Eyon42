@@ -4,9 +4,6 @@ I'm a fullstack developer building AI and Web3 MVPs at Bestem.dev
 
 Currently I'm focusing mostly on working with integrations and doing R&D in Collab Notebooks about tools like langchain and LLaMA.
 
-## Languages
-Python - Typescript - Solidity
-
 ## Recent projects
 A couple of one-two days I've been doing recently besides client work.
 
