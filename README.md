@@ -1,10 +1,13 @@
-### Hi there 👋
+# Francesco Gentile - Fullstack Dev
 
-I'm a fullstack developer building custom web3 MVPs at Bestem.dev
+I'm a fullstack developer building AI and Web3 MVPs at Bestem.dev
 
+Currently I'm focusing mostly on working with integrations and doing R&D in Collab Notebooks about tools like langchain and LLaMA.
+
+## Languages
 Python - Typescript - Solidity
 
-#### Recent projects
+## Recent projects
 A couple of one-two days I've been doing recently besides client work.
 
 - [Travel activity recomendation page](https://checitybot.vercel.app/)
@@ -13,9 +16,7 @@ A couple of one-two days I've been doing recently besides client work.
 
 Those were done in a recent exploration to review the development process at Bestem and how we can quickly put out MVPs integrating the latest technologies. Several lessons about architecture, development practices and use of LLMs came out of that and we're implementing them in our next apps.
 
-Currently I'm focusing mostly on working with integrations and doing R&D in Collab Notebooks about tools like langchain and LLaMA.
-
-#### Content
+## Content
 Whenever I give a talk or workshop I try to prepare some material and examples.
 
 Here a some:
